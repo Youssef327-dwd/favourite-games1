@@ -1,0 +1,16 @@
+
+#No2{
+    color: rgb(99, 55, 174);
+}
+.Celeste{
+    color: rgb(120, 31, 215);
+}
+*{
+    text-align: center;
+    background-color: rgb(209, 233, 230);
+}
+h2, h3, h4{
+    color: chocolate;
+    font-family: monospace;
+    font-size: larger;
+}

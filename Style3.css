@@ -1,0 +1,16 @@
+
+#No3{
+    color: #b5b4b7;
+}
+.Hollow{
+    color: rgb(208, 189, 189);
+}
+*{
+    text-align: center;
+    background-color: rgb(66, 67, 66);
+}
+h2, h3, h4{
+    color: rgb(152, 149, 146);
+    font-family: monospace;
+    font-size: larger;
+}
